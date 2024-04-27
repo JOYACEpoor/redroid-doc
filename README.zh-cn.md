@@ -17,7 +17,7 @@
 
 ![Screenshot of redroid 11](./assets/redroid11.png)
 
-Currently supported:
+当前支持的有：
 - Android 14 (`redroid/redroid:14.0.0-latest`)
 - Android 14 64bit only (`redroid/redroid:14.0.0_64only-latest`)
 - Android 13 (`redroid/redroid:13.0.0-latest`)
