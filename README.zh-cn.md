@@ -13,9 +13,7 @@
 - [许可证](#许可证)
 
 ## 概览
-*redroid* (*Re*mote an*Droid*) is a GPU accelerated AIC (Android In Cloud) solution. You can boot many
-instances in Linux host (`Docker`, `podman`, `k8s` etc.). *redroid* supports both `arm64` and `amd64` architectures. 
-*redroid* is suitable for Cloud Gaming, Virtualise Phones, Automation Test and more.
+*redroid*(*Re*mote an*Droid*)是一种GPU加速的AIC（云端Android）解决方案。您可以在Linux主机上启动多个实例(`Docker`,`podman`,`k8s` 等。)。*redroid* 支持`arm64`和`amd64`两种架构。*redroid*适用于云游戏、虚拟手机、自动化测试等应用场景。
 
 ![Screenshot of redroid 11](./assets/redroid11.png)
 
